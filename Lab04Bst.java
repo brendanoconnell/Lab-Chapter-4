@@ -47,21 +47,35 @@ public class Lab04Bst extends Applet
         Expo.drawLine(g,650,450,575,600);
         Expo.drawLine(g,650,450,725,600);
         Expo.drawLine(g,575,600,690,525);
-        //Expo.drawLine(g,725.600,);
+        Expo.drawLine(g,725,600,610,525);
+        
 
 
 
 
 
         // DRAW SMILEY FACE
-
-
+            Expo.drawOval(g,450,500,100,150);
+           // Expo.drawLine(g,450,350,450,650 );
+           // Expo.drawLine(g,350,500,550,500);
+            Expo.drawArc(g,450,525,75,50,90,270);
+            Expo.drawPoint(g,410,435);
+            Expo.drawPoint(g,490,435);
+            Expo.drawCircle(g,410,435,20);
+            Expo.drawCircle(g,490,435,20);
+            Expo.drawArc(g,410,415,20,10,270,90);
+            Expo.drawArc(g,490,415,20,10,270,90);
+            
+            
+            
+            
 
 
 
 
         // DRAW JPII
-
+            //Expo.
+        
 
 
 
